@@ -1,0 +1,30 @@
+# Environment files
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Log files
+*.log
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# AWS Lambda deployment packages
+*.zip
+
+# Alexa Skill specific files
+skill-package/
+lambda/upload.zip
+
+# Virtual environment
+venv/
